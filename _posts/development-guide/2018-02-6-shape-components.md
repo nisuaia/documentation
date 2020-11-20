@@ -81,6 +81,7 @@ To get you started, below is a list of libraries that have free or relatively in
 - [Thingiverse](https://www.thingiverse.com/) (3D models made primarily for 3D printing, but adaptable to Virtual Worlds)
 - [ShareCG](https://www.sharecg.com/)
 - [CGTrader](https://www.cgtrader.com/)
+- [3DModelsCC0](https://www.3dmodelscc0.com/)
 
 > Note: Pay attention to the license restrictions that the content you download has.
 
